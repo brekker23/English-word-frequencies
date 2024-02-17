@@ -12,4 +12,8 @@ The word-percentage.txt file has every word in the english language in the first
 
 
 
+
+
 Every file has a .txt and .zip and .tar.gz version given
+
+NOTE: because this list is generated using public domain works, it will not accurately reflect the frequencies of newer words

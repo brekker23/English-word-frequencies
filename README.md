@@ -7,7 +7,7 @@ For example, if "of" has a weight of 0.25, this means that it occurs 1/4 as ofte
 
 The word-count.txt file has every word in the english language in the first column, along with the number of times that it appeared in public domain books in the second column.
 
-The word-percentage.txt file has every word in the english language in the first column, along with the percentage of all words that it comprises. These percentages are generally very low.
+The word-percentages.txt file has every word in the english language in the first column, along with the percentage of all words that it comprises. These percentages are generally very low.
 
 
 

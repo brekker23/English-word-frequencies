@@ -16,5 +16,5 @@ The word-percentages.txt file has every word in the english language in the firs
 
 Every file has a .txt and .zip and .tar.gz version given
 
-NOTE: because this list is generated using public domain works, it will not accurately reflect the frequencies of newer words
+NOTE: because this list is generated using public domain works, it will not accurately reflect the frequencies of newer words\n\n
 NOTE: these files use scientific notation to represent many of the smaller values in word-frequencies.txt and word-percentages.txt
